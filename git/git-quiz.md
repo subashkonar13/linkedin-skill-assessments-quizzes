@@ -282,7 +282,7 @@ git push -u origin master
 - [ ] Run git hotfix with the shortcut name.
 - [ ] Assign a shortcut or command using git options file.
 - [ ] Use the git custom-key command.
-- [x] Create an alias usin the git config command.
+- [x] Create an alias using the git config command.
 
 #### Q29. What is the status of the beta-notes.js file in the following output?
 
@@ -974,3 +974,19 @@ remote repository, named origin, to point to the new remote repository at this l
 - [ ] - git remote update origin https://github.com/yourcompany/core-api.git
 - [x] - git remote set-url origin https://github.com/yourcompany/core-api.git
 - [ ] - git remote add https://github.com/yourcompany/core-api.git
+
+#### Q120. When is the cherry-pick command used?
+
+- [x] - when a commit from one branch needs to be copied into another branch
+- [ ] - when the HEAD needs to be reset to a specific commit
+- [ ] - when a specific commit needs to be pulled down from the remote repository
+- [ ] - when a hook script needs to be invoked
+
+#### Q121. How would you describe a fokred repository?
+
+- [ ] - a deleted or archived copy of a repository
+- [ ] - a beta release branch of a repository
+- [ ] - a future branch of a repository
+- [x] - a separate copy of a repository
+
+[reference](https://stackoverflow.com/a/9339460/1573267)
